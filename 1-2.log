@@ -1,27 +1,27 @@
 Bluetooth monitor ver 5.72
-btmon[16049]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)      0.500160
-btmon[16049]: = Note: Bluetooth subsystem version 2.22                 0.500163
-= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.500165
-= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.500165
-= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.500166
-bluetoothd[785]: @ MGMT Open: bl.. (privileged) version 1.22  {0x0001} 0.500168
-> ACL Data RX: Handle 64 flags 0x02 dlen 29                  #1 [hci0] 6.026401
-      ATT: Write Command (0x52) len 24
-        Handle: 0x00e6
-          Data: 30313233343536373839212324252628293d2d7e5e7c
-> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #2 [hci0] 11.047699
-      ATT: Write Command (0x52) len 24
-        Handle: 0x00e6
-          Data: 30313233343536373839212324252628293d2d7e5e7c
-> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #3 [hci0] 16.068991
-      ATT: Write Command (0x52) len 24
-        Handle: 0x00e6
-          Data: 30313233343536373839212324252628293d2d7e5e7c
-> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #4 [hci0] 21.041767
-      ATT: Write Command (0x52) len 24
-        Handle: 0x00e6
-          Data: 30313233343536373839212324252628293d2d7e5e7c
-> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #5 [hci0] 26.062859
-      ATT: Write Command (0x52) len 24
-        Handle: 0x00e6
-          Data: 30313233343536373839212324252628293d2d7e5e7c
+btmon[15046]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)      0.520053
+btmon[15046]: = Note: Bluetooth subsystem version 2.22                 0.520056
+= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.520058
+= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.520058
+= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.520059
+bluetoothd[11924]: @ MGMT Open:... (privileged) version 1.22  {0x0001} 0.520060
+> ACL Data RX: Handle 64 flags 0x02 dlen 17                  #1 [hci0] 6.383293
+      ATT: Write Command (0x52) len 12
+        Handle: 0x004a
+          Data: 05050505050505050505
+> ACL Data RX: Handle 64 flags 0x02 dlen 17                 #2 [hci0] 11.404588
+      ATT: Write Command (0x52) len 12
+        Handle: 0x004a
+          Data: 05050505050505050505
+> ACL Data RX: Handle 64 flags 0x02 dlen 17                 #3 [hci0] 16.425884
+      ATT: Write Command (0x52) len 12
+        Handle: 0x004a
+          Data: 05050505050505050505
+> ACL Data RX: Handle 64 flags 0x02 dlen 17                 #4 [hci0] 21.398428
+      ATT: Write Command (0x52) len 12
+        Handle: 0x004a
+          Data: 05050505050505050505
+> ACL Data RX: Handle 64 flags 0x02 dlen 17                 #5 [hci0] 26.420148
+      ATT: Write Command (0x52) len 12
+        Handle: 0x004a
+          Data: 05050505050505050505

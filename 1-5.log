@@ -1,0 +1,37 @@
+Bluetooth monitor ver 5.72
+btmon[15056]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)      0.177221
+btmon[15056]: = Note: Bluetooth subsystem version 2.22                 0.177224
+= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.177226
+= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.177226
+= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.177227
+bluetoothd[11924]: @ MGMT Open:... (privileged) version 1.22  {0x0001} 0.177229
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                 #1 [hci0] 6.958271
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                 #2 [hci0] 6.960727
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                  #3 [hci0] 6.960829
+      ATT: Write Command (0x52) len 516
+        Handle: 0x004a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #4 [hci0] 11.979570
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #5 [hci0] 11.982021
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #6 [hci0] 11.982123
+      ATT: Write Command (0x52) len 516
+        Handle: 0x004a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #7 [hci0] 17.000869
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #8 [hci0] 17.003327
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #9 [hci0] 17.003429
+      ATT: Write Command (0x52) len 516
+        Handle: 0x004a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #10 [hci0] 21.973420
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #11 [hci0] 21.975876
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #12 [hci0] 21.975978
+      ATT: Write Command (0x52) len 516
+        Handle: 0x004a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #13 [hci0] 26.994717
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #14 [hci0] 26.997175
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #15 [hci0] 26.997277
+      ATT: Write Command (0x52) len 516
+        Handle: 0x004a
+          Data: 0505

@@ -1,0 +1,7 @@
+Bluetooth monitor ver 5.72
+btmon[15067]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)      0.288950
+btmon[15067]: = Note: Bluetooth subsystem version 2.22                 0.288953
+= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.288954
+= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.288955
+= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.288955
+bluetoothd[11924]: @ MGMT Open:... (privileged) version 1.22  {0x0001} 0.288956
