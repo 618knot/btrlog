@@ -1,0 +1,27 @@
+Bluetooth monitor ver 5.72
+btmon[16049]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)      0.500160
+btmon[16049]: = Note: Bluetooth subsystem version 2.22                 0.500163
+= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.500165
+= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.500165
+= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.500166
+bluetoothd[785]: @ MGMT Open: bl.. (privileged) version 1.22  {0x0001} 0.500168
+> ACL Data RX: Handle 64 flags 0x02 dlen 29                  #1 [hci0] 6.026401
+      ATT: Write Command (0x52) len 24
+        Handle: 0x00e6
+          Data: 30313233343536373839212324252628293d2d7e5e7c
+> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #2 [hci0] 11.047699
+      ATT: Write Command (0x52) len 24
+        Handle: 0x00e6
+          Data: 30313233343536373839212324252628293d2d7e5e7c
+> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #3 [hci0] 16.068991
+      ATT: Write Command (0x52) len 24
+        Handle: 0x00e6
+          Data: 30313233343536373839212324252628293d2d7e5e7c
+> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #4 [hci0] 21.041767
+      ATT: Write Command (0x52) len 24
+        Handle: 0x00e6
+          Data: 30313233343536373839212324252628293d2d7e5e7c
+> ACL Data RX: Handle 64 flags 0x02 dlen 29                 #5 [hci0] 26.062859
+      ATT: Write Command (0x52) len 24
+        Handle: 0x00e6
+          Data: 30313233343536373839212324252628293d2d7e5e7c
