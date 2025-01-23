@@ -1,0 +1,1771 @@
+Bluetooth monitor ver 5.72
+btmon[4365]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)       0.784914
+btmon[4365]: = Note: Bluetooth subsystem version 2.22                  0.784917
+= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.784919
+= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.784919
+= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.784920
+bluetoothd[707]: @ MGMT Open: bl.. (privileged) version 1.22  {0x0001} 0.784922
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                 #1 [hci0] 8.555492
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                 #2 [hci0] 8.557952
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                  #3 [hci0] 8.558054
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                 #4 [hci0] 8.701742
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                 #5 [hci0] 8.704204
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                  #6 [hci0] 8.704306
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                 #7 [hci0] 8.799241
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                 #8 [hci0] 8.801705
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                  #9 [hci0] 8.801807
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #10 [hci0] 8.945498
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #11 [hci0] 8.947957
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #12 [hci0] 8.948060
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #13 [hci0] 8.994247
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #14 [hci0] 8.996766
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #15 [hci0] 8.996868
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #16 [hci0] 9.091747
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #17 [hci0] 9.094208
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #18 [hci0] 9.094309
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #19 [hci0] 9.189250
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #20 [hci0] 9.238000
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #21 [hci0] 9.238101
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #22 [hci0] 9.286750
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #23 [hci0] 9.289210
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #24 [hci0] 9.289312
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #25 [hci0] 9.384253
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #26 [hci0] 9.386711
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #27 [hci0] 9.386812
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #28 [hci0] 9.530501
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #29 [hci0] 9.532962
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #30 [hci0] 9.533064
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #31 [hci0] 9.579252
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #32 [hci0] 9.581710
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #33 [hci0] 9.581811
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #34 [hci0] 9.725505
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #35 [hci0] 9.727965
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #36 [hci0] 9.728067
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #37 [hci0] 9.822998
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #38 [hci0] 9.825448
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #39 [hci0] 9.825548
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251                #40 [hci0] 9.969257
+> ACL Data RX: Handle 64 flags 0x01 dlen 251                #41 [hci0] 9.971714
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                 #42 [hci0] 9.971816
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #43 [hci0] 10.018007
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #44 [hci0] 10.020467
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #45 [hci0] 10.020569
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #46 [hci0] 10.115510
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #47 [hci0] 10.117966
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #48 [hci0] 10.118068
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #49 [hci0] 10.213010
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #50 [hci0] 10.215468
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #51 [hci0] 10.215570
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #52 [hci0] 10.310513
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #53 [hci0] 10.312971
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #54 [hci0] 10.313073
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #55 [hci0] 10.408012
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #56 [hci0] 10.410471
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #57 [hci0] 10.410573
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #58 [hci0] 10.554267
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #59 [hci0] 10.556723
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #60 [hci0] 10.556825
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #61 [hci0] 10.651757
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #62 [hci0] 10.654220
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #63 [hci0] 10.654322
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #64 [hci0] 10.798014
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #65 [hci0] 10.800476
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #66 [hci0] 10.800578
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #67 [hci0] 10.944266
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #68 [hci0] 10.946725
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #69 [hci0] 10.946827
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #70 [hci0] 11.041767
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #71 [hci0] 11.044226
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #72 [hci0] 11.044328
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #73 [hci0] 11.139267
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #74 [hci0] 11.141728
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #75 [hci0] 11.141830
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #76 [hci0] 11.285521
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #77 [hci0] 11.287980
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #78 [hci0] 11.288081
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #79 [hci0] 11.291124
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #80 [hci0] 11.293629
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #81 [hci0] 11.293730
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #82 [hci0] 11.383019
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #83 [hci0] 11.385480
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #84 [hci0] 11.385582
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #85 [hci0] 11.480522
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #86 [hci0] 11.482982
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #87 [hci0] 11.483084
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #88 [hci0] 11.529273
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #89 [hci0] 11.531732
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #90 [hci0] 11.531834
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #91 [hci0] 11.626773
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #92 [hci0] 11.629231
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #93 [hci0] 11.629333
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #94 [hci0] 11.724273
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #95 [hci0] 11.726733
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #96 [hci0] 11.726835
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251               #97 [hci0] 11.821773
+> ACL Data RX: Handle 64 flags 0x01 dlen 251               #98 [hci0] 11.824235
+> ACL Data RX: Handle 64 flags 0x01 dlen 19                #99 [hci0] 11.824337
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #100 [hci0] 11.919697
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #101 [hci0] 11.922197
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #102 [hci0] 11.922298
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #103 [hci0] 12.065527
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #104 [hci0] 12.067985
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #105 [hci0] 12.068087
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #106 [hci0] 12.163030
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #107 [hci0] 12.165484
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #108 [hci0] 12.165586
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #109 [hci0] 12.260530
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #110 [hci0] 12.262986
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #111 [hci0] 12.263088
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #112 [hci0] 12.358035
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #113 [hci0] 12.360491
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #114 [hci0] 12.360593
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #115 [hci0] 12.455531
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #116 [hci0] 12.457991
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #117 [hci0] 12.458092
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #118 [hci0] 12.601783
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #119 [hci0] 12.604242
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #120 [hci0] 12.604344
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #121 [hci0] 12.650531
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #122 [hci0] 12.652991
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #123 [hci0] 12.653093
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #124 [hci0] 12.748031
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #125 [hci0] 12.750494
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #126 [hci0] 12.750595
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #127 [hci0] 12.845534
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #128 [hci0] 12.847993
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #129 [hci0] 12.848095
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #130 [hci0] 12.991784
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #131 [hci0] 12.994245
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #132 [hci0] 12.994347
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #133 [hci0] 13.040534
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #134 [hci0] 13.042994
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #135 [hci0] 13.043096
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #136 [hci0] 13.138040
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #137 [hci0] 13.140499
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #138 [hci0] 13.140601
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #139 [hci0] 13.284288
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #140 [hci0] 13.286749
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #141 [hci0] 13.286851
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #142 [hci0] 13.381787
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #143 [hci0] 13.384249
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #144 [hci0] 13.384351
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #145 [hci0] 13.430537
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #146 [hci0] 13.433001
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #147 [hci0] 13.433103
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #148 [hci0] 13.576792
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #149 [hci0] 13.579252
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #150 [hci0] 13.579354
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #151 [hci0] 13.674294
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #152 [hci0] 13.676753
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #153 [hci0] 13.676855
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #154 [hci0] 13.771790
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #155 [hci0] 13.774254
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #156 [hci0] 13.774356
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #157 [hci0] 13.869296
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #158 [hci0] 13.871755
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #159 [hci0] 13.871857
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #160 [hci0] 13.966797
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #161 [hci0] 13.969254
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #162 [hci0] 13.969356
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #163 [hci0] 14.064296
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #164 [hci0] 14.066756
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #165 [hci0] 14.066858
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #166 [hci0] 14.161799
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #167 [hci0] 14.164257
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #168 [hci0] 14.164359
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #169 [hci0] 14.259297
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #170 [hci0] 14.261755
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #171 [hci0] 14.261857
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #172 [hci0] 14.405552
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #173 [hci0] 14.408011
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #174 [hci0] 14.408113
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #175 [hci0] 14.503050
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #176 [hci0] 14.505509
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #177 [hci0] 14.505611
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #178 [hci0] 14.551802
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #179 [hci0] 14.554261
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #180 [hci0] 14.554363
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #181 [hci0] 14.698053
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #182 [hci0] 14.700511
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #183 [hci0] 14.700613
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #184 [hci0] 14.795553
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #185 [hci0] 14.798013
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #186 [hci0] 14.798115
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #187 [hci0] 14.893055
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #188 [hci0] 14.895514
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #189 [hci0] 14.895616
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #190 [hci0] 14.990554
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #191 [hci0] 14.993014
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #192 [hci0] 14.993116
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #193 [hci0] 15.088057
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #194 [hci0] 15.090523
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #195 [hci0] 15.090625
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #196 [hci0] 15.185555
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #197 [hci0] 15.188017
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #198 [hci0] 15.188119
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #199 [hci0] 15.283059
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #200 [hci0] 15.285519
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #201 [hci0] 15.285621
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #202 [hci0] 15.380559
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #203 [hci0] 15.383019
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #204 [hci0] 15.383121
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #205 [hci0] 15.478058
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #206 [hci0] 15.480521
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #207 [hci0] 15.480623
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #208 [hci0] 15.624313
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #209 [hci0] 15.626773
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #210 [hci0] 15.626874
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #211 [hci0] 15.673063
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #212 [hci0] 15.724275
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #213 [hci0] 15.724377
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #214 [hci0] 15.770561
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #215 [hci0] 15.819312
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #216 [hci0] 15.819414
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #217 [hci0] 15.916815
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #218 [hci0] 15.919275
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #219 [hci0] 15.919377
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #220 [hci0] 16.014315
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #221 [hci0] 16.016775
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #222 [hci0] 16.016877
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #223 [hci0] 16.111815
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #224 [hci0] 16.114278
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #225 [hci0] 16.114380
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #226 [hci0] 16.160566
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #227 [hci0] 16.163028
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #228 [hci0] 16.163130
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #229 [hci0] 16.306820
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #230 [hci0] 16.309276
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #231 [hci0] 16.309378
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #232 [hci0] 16.404321
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #233 [hci0] 16.406779
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #234 [hci0] 16.406881
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #235 [hci0] 16.501821
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #236 [hci0] 16.504280
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #237 [hci0] 16.504382
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #238 [hci0] 16.599321
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #239 [hci0] 16.601781
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #240 [hci0] 16.601883
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #241 [hci0] 16.696822
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #242 [hci0] 16.748036
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #243 [hci0] 16.748138
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #244 [hci0] 16.940575
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #245 [hci0] 16.943031
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #246 [hci0] 16.943133
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #247 [hci0] 17.086826
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #248 [hci0] 17.089283
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #249 [hci0] 17.089385
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #250 [hci0] 17.233078
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #251 [hci0] 17.235535
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #252 [hci0] 17.235637
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #253 [hci0] 17.281828
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #254 [hci0] 17.284288
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #255 [hci0] 17.284391
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #256 [hci0] 17.379329
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #257 [hci0] 17.381790
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #258 [hci0] 17.381892
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #259 [hci0] 17.428077
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #260 [hci0] 17.430539
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #261 [hci0] 17.430641
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #262 [hci0] 17.525577
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #263 [hci0] 17.528039
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #264 [hci0] 17.528141
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #265 [hci0] 17.574325
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #266 [hci0] 17.576791
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #267 [hci0] 17.576893
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #268 [hci0] 17.671833
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #269 [hci0] 17.674293
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #270 [hci0] 17.674395
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #271 [hci0] 17.720582
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #272 [hci0] 17.769334
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #273 [hci0] 17.769436
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #274 [hci0] 17.818081
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #275 [hci0] 17.820544
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #276 [hci0] 17.820646
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #277 [hci0] 17.915582
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #278 [hci0] 17.918044
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #279 [hci0] 17.918145
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #280 [hci0] 18.013083
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #281 [hci0] 18.015546
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #282 [hci0] 18.015648
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #283 [hci0] 18.111005
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #284 [hci0] 18.113505
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #285 [hci0] 18.113606
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #286 [hci0] 18.208087
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #287 [hci0] 18.210546
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #288 [hci0] 18.210647
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #289 [hci0] 18.305589
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #290 [hci0] 18.308049
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #291 [hci0] 18.308151
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #292 [hci0] 18.451840
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #293 [hci0] 18.454295
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #294 [hci0] 18.454396
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #295 [hci0] 18.549341
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #296 [hci0] 18.551799
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #297 [hci0] 18.551901
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #298 [hci0] 18.646842
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #299 [hci0] 18.649299
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #300 [hci0] 18.649401
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #301 [hci0] 18.744345
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #302 [hci0] 18.793089
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #303 [hci0] 18.793191
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #304 [hci0] 18.841843
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #305 [hci0] 18.844297
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #306 [hci0] 18.844400
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #307 [hci0] 18.939344
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #308 [hci0] 18.941803
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #309 [hci0] 18.941905
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #310 [hci0] 19.036845
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #311 [hci0] 19.039304
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #312 [hci0] 19.039406
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #313 [hci0] 19.134347
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #314 [hci0] 19.136805
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #315 [hci0] 19.136907
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #316 [hci0] 19.231843
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #317 [hci0] 19.234307
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #318 [hci0] 19.234409
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #319 [hci0] 19.329349
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #320 [hci0] 19.331808
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #321 [hci0] 19.331910
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #322 [hci0] 19.426846
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #323 [hci0] 19.429306
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #324 [hci0] 19.429408
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #325 [hci0] 19.573100
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #326 [hci0] 19.575589
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #327 [hci0] 19.575691
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #328 [hci0] 19.670602
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #329 [hci0] 19.673063
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #330 [hci0] 19.673165
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #331 [hci0] 19.768102
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #332 [hci0] 19.770563
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #333 [hci0] 19.770665
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #334 [hci0] 19.914354
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #335 [hci0] 19.916815
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #336 [hci0] 19.916917
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #337 [hci0] 19.963106
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #338 [hci0] 19.965565
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #339 [hci0] 19.965667
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #340 [hci0] 20.060606
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #341 [hci0] 20.063066
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #342 [hci0] 20.063168
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #343 [hci0] 20.158105
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #344 [hci0] 20.160566
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #345 [hci0] 20.160669
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #346 [hci0] 20.255606
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #347 [hci0] 20.258065
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #348 [hci0] 20.258167
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #349 [hci0] 20.353106
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #350 [hci0] 20.355566
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #351 [hci0] 20.355667
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #352 [hci0] 20.450610
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #353 [hci0] 20.453068
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #354 [hci0] 20.453170
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #355 [hci0] 20.548108
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #356 [hci0] 20.550569
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #357 [hci0] 20.550671
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #358 [hci0] 20.694362
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #359 [hci0] 20.696821
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #360 [hci0] 20.696923
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #361 [hci0] 20.743113
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #362 [hci0] 20.791863
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #363 [hci0] 20.791964
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #364 [hci0] 20.840614
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #365 [hci0] 20.843073
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #366 [hci0] 20.843175
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #367 [hci0] 20.938114
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #368 [hci0] 20.940570
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #369 [hci0] 20.940672
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #370 [hci0] 21.084366
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #371 [hci0] 21.086850
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #372 [hci0] 21.086952
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #373 [hci0] 21.181869
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #374 [hci0] 21.230615
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #375 [hci0] 21.230717
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #376 [hci0] 21.279368
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #377 [hci0] 21.281824
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #378 [hci0] 21.281925
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #379 [hci0] 21.425623
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #380 [hci0] 21.428078
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #381 [hci0] 21.428180
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #382 [hci0] 21.523117
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #383 [hci0] 21.525578
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #384 [hci0] 21.525680
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #385 [hci0] 21.571868
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #386 [hci0] 21.620619
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #387 [hci0] 21.620721
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #388 [hci0] 21.718122
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #389 [hci0] 21.720582
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #390 [hci0] 21.720684
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #391 [hci0] 21.766871
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #392 [hci0] 21.769333
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #393 [hci0] 21.812749
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #394 [hci0] 21.864370
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #395 [hci0] 21.913124
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #396 [hci0] 21.913226
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #397 [hci0] 22.010625
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #398 [hci0] 22.013086
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #399 [hci0] 22.013188
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #400 [hci0] 22.059370
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #401 [hci0] 22.061836
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #402 [hci0] 22.061938
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #403 [hci0] 22.205628
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #404 [hci0] 22.208087
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #405 [hci0] 22.208189
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #406 [hci0] 22.303550
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #407 [hci0] 22.306050
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #408 [hci0] 22.306151
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #409 [hci0] 22.400659
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #410 [hci0] 22.403089
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #411 [hci0] 22.403191
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #412 [hci0] 22.498129
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #413 [hci0] 22.500590
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #414 [hci0] 22.500692
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #415 [hci0] 22.595633
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #416 [hci0] 22.644377
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #417 [hci0] 22.644478
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #418 [hci0] 22.693132
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #419 [hci0] 22.695586
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #420 [hci0] 22.695687
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #421 [hci0] 22.839384
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #422 [hci0] 22.841842
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #423 [hci0] 22.841944
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #424 [hci0] 22.936884
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #425 [hci0] 22.939338
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #426 [hci0] 22.939440
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #427 [hci0] 23.034386
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #428 [hci0] 23.036845
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #429 [hci0] 23.036947
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #430 [hci0] 23.083136
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #431 [hci0] 23.085596
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #432 [hci0] 23.085698
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #433 [hci0] 23.229389
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #434 [hci0] 23.231840
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #435 [hci0] 23.231942
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #436 [hci0] 23.326888
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #437 [hci0] 23.329347
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #438 [hci0] 23.329449
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #439 [hci0] 23.375639
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #440 [hci0] 23.378098
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #441 [hci0] 23.378200
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #442 [hci0] 23.521888
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #443 [hci0] 23.524347
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #444 [hci0] 23.524449
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #445 [hci0] 23.619390
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #446 [hci0] 23.621849
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #447 [hci0] 23.621951
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #448 [hci0] 23.765641
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #449 [hci0] 23.768101
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #450 [hci0] 23.768203
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #451 [hci0] 23.814392
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #452 [hci0] 23.816853
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #453 [hci0] 23.860268
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #454 [hci0] 23.911956
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #455 [hci0] 23.914354
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #456 [hci0] 23.914456
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #457 [hci0] 24.058227
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #458 [hci0] 24.060715
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #459 [hci0] 24.060817
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #460 [hci0] 24.106897
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #461 [hci0] 24.109357
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #462 [hci0] 24.109459
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #463 [hci0] 24.204393
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #464 [hci0] 24.206856
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #465 [hci0] 24.206957
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #466 [hci0] 24.351068
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #467 [hci0] 24.353567
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #468 [hci0] 24.353668
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #469 [hci0] 24.399394
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #470 [hci0] 24.401860
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #471 [hci0] 24.401962
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #472 [hci0] 24.545649
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #473 [hci0] 24.548109
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #474 [hci0] 24.548211
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #475 [hci0] 24.594382
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #476 [hci0] 24.643150
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #477 [hci0] 24.643252
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #478 [hci0] 24.838154
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #479 [hci0] 24.840613
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #480 [hci0] 24.840715
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #481 [hci0] 24.886903
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #482 [hci0] 24.889362
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #483 [hci0] 24.889464
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #484 [hci0] 24.984404
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #485 [hci0] 24.986861
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #486 [hci0] 24.986963
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #487 [hci0] 25.033154
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #488 [hci0] 25.035613
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #489 [hci0] 25.035715
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #490 [hci0] 25.130660
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #491 [hci0] 25.133115
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #492 [hci0] 25.133217
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #493 [hci0] 25.228158
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #494 [hci0] 25.230617
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #495 [hci0] 25.230718
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #496 [hci0] 25.325658
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #497 [hci0] 25.376869
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #498 [hci0] 25.376971
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #499 [hci0] 25.471910
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #500 [hci0] 25.474370
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #501 [hci0] 25.474472
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #502 [hci0] 25.520659
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #503 [hci0] 25.523198
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #504 [hci0] 25.523300
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #505 [hci0] 25.618162
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #506 [hci0] 25.620620
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #507 [hci0] 25.620722
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #508 [hci0] 25.715643
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #509 [hci0] 25.861911
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #510 [hci0] 25.862013
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #511 [hci0] 25.865016
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #512 [hci0] 25.910662
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #513 [hci0] 25.910764
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #514 [hci0] 25.959414
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #515 [hci0] 25.961873
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #516 [hci0] 25.961975
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #517 [hci0] 26.056910
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #518 [hci0] 26.059376
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #519 [hci0] 26.059478
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #520 [hci0] 26.154502
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #521 [hci0] 26.156935
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #522 [hci0] 26.157035
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #523 [hci0] 26.251895
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #524 [hci0] 26.254476
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #525 [hci0] 26.254577
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #526 [hci0] 26.349416
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #527 [hci0] 26.351879
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #528 [hci0] 26.351981
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #529 [hci0] 26.446924
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #530 [hci0] 26.449381
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #531 [hci0] 26.449483
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #532 [hci0] 26.593164
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #533 [hci0] 26.595630
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #534 [hci0] 26.595732
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #535 [hci0] 26.641919
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #536 [hci0] 26.644381
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #537 [hci0] 26.644483
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #538 [hci0] 26.739424
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #539 [hci0] 26.741881
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #540 [hci0] 26.741983
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #541 [hci0] 26.836921
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #542 [hci0] 26.839382
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #543 [hci0] 26.839484
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #544 [hci0] 26.934423
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #545 [hci0] 26.936886
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #546 [hci0] 26.936987
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #547 [hci0] 27.080674
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #548 [hci0] 27.083136
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #549 [hci0] 27.083237
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #550 [hci0] 27.129426
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #551 [hci0] 27.131880
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #552 [hci0] 27.131982
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #553 [hci0] 27.226927
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #554 [hci0] 27.229384
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #555 [hci0] 27.229486
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #556 [hci0] 27.373181
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #557 [hci0] 27.424387
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #558 [hci0] 27.424489
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #559 [hci0] 27.470681
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #560 [hci0] 27.473137
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #561 [hci0] 27.473239
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #562 [hci0] 27.568180
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #563 [hci0] 27.570633
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #564 [hci0] 27.570735
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #565 [hci0] 27.714431
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #566 [hci0] 27.763176
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #567 [hci0] 27.763278
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #568 [hci0] 27.766289
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #569 [hci0] 27.768788
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #570 [hci0] 27.768890
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #571 [hci0] 27.860681
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #572 [hci0] 27.863142
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #573 [hci0] 27.863244
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #574 [hci0] 27.958186
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #575 [hci0] 27.960645
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #576 [hci0] 27.960747
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #577 [hci0] 28.055684
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #578 [hci0] 28.058145
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #579 [hci0] 28.058247
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #580 [hci0] 28.153166
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #581 [hci0] 28.201937
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #582 [hci0] 28.202038
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #583 [hci0] 28.250682
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #584 [hci0] 28.253147
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #585 [hci0] 28.253249
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #586 [hci0] 28.348253
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #587 [hci0] 28.350649
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #588 [hci0] 28.350752
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #589 [hci0] 28.494440
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #590 [hci0] 28.496900
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #591 [hci0] 28.497002
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #592 [hci0] 28.591936
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #593 [hci0] 28.594401
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #594 [hci0] 28.594503
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #595 [hci0] 28.689441
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #596 [hci0] 28.691902
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #597 [hci0] 28.692003
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #598 [hci0] 28.786942
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #599 [hci0] 28.789403
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #600 [hci0] 28.789504
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #601 [hci0] 28.884443
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #602 [hci0] 28.886902
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #603 [hci0] 28.887003
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #604 [hci0] 28.981942
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #605 [hci0] 28.984405
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #606 [hci0] 28.984506
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #607 [hci0] 29.128197
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #608 [hci0] 29.130655
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #609 [hci0] 29.130757
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #610 [hci0] 29.225696
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #611 [hci0] 29.228154
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #612 [hci0] 29.228256
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #613 [hci0] 29.371951
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #614 [hci0] 29.374408
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #615 [hci0] 29.374509
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #616 [hci0] 29.469870
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #617 [hci0] 29.472365
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #618 [hci0] 29.472467
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #619 [hci0] 29.566951
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #620 [hci0] 29.569411
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #621 [hci0] 29.569513
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #622 [hci0] 29.664875
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #623 [hci0] 29.667373
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #624 [hci0] 29.667475
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #625 [hci0] 29.713203
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #626 [hci0] 29.715662
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #627 [hci0] 29.715764
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #628 [hci0] 29.810702
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #629 [hci0] 29.813162
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #630 [hci0] 29.813264
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #631 [hci0] 29.908202
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #632 [hci0] 29.910663
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #633 [hci0] 29.910765
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #634 [hci0] 30.005705
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #635 [hci0] 30.008165
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #636 [hci0] 30.008267
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #637 [hci0] 30.103205
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #638 [hci0] 30.105665
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #639 [hci0] 30.105767
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #640 [hci0] 30.200701
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #641 [hci0] 30.203165
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #642 [hci0] 30.203267
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #643 [hci0] 30.298208
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #644 [hci0] 30.300666
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #645 [hci0] 30.300768
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #646 [hci0] 30.395709
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #647 [hci0] 30.398169
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #648 [hci0] 30.398271
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #649 [hci0] 30.541961
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #650 [hci0] 30.544420
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #651 [hci0] 30.544522
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #652 [hci0] 30.639458
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #653 [hci0] 30.641920
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #654 [hci0] 30.687818
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #655 [hci0] 30.691310
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #656 [hci0] 30.693820
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #657 [hci0] 30.693922
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #658 [hci0] 30.834464
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #659 [hci0] 30.836923
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #660 [hci0] 30.837025
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #661 [hci0] 30.883213
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #662 [hci0] 30.885673
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #663 [hci0] 30.885775
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #664 [hci0] 31.029463
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #665 [hci0] 31.031924
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #666 [hci0] 31.032026
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #667 [hci0] 31.126967
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #668 [hci0] 31.129427
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #669 [hci0] 31.129528
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #670 [hci0] 31.224468
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #671 [hci0] 31.226925
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #672 [hci0] 31.227026
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #673 [hci0] 31.321966
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #674 [hci0] 31.324428
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #675 [hci0] 31.324530
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #676 [hci0] 31.419469
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #677 [hci0] 31.421926
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #678 [hci0] 31.422028
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #679 [hci0] 31.516972
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #680 [hci0] 31.519429
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #681 [hci0] 31.519530
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #682 [hci0] 31.614471
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #683 [hci0] 31.663222
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #684 [hci0] 31.663324
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #685 [hci0] 31.760723
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #686 [hci0] 31.763177
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #687 [hci0] 31.763279
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #688 [hci0] 31.809473
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #689 [hci0] 31.811927
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #690 [hci0] 31.812029
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #691 [hci0] 31.906974
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #692 [hci0] 31.909435
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #693 [hci0] 31.909537
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #694 [hci0] 32.053225
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #695 [hci0] 32.055685
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #696 [hci0] 32.055787
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #697 [hci0] 32.150726
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #698 [hci0] 32.153187
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #699 [hci0] 32.153289
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #700 [hci0] 32.199478
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #701 [hci0] 32.201934
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #702 [hci0] 32.202036
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #703 [hci0] 32.345727
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #704 [hci0] 32.396941
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #705 [hci0] 32.397043
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #706 [hci0] 32.443230
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #707 [hci0] 32.445689
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #708 [hci0] 32.445791
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #709 [hci0] 32.540728
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #710 [hci0] 32.543190
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #711 [hci0] 32.543292
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #712 [hci0] 32.638228
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #713 [hci0] 32.640689
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #714 [hci0] 32.640791
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #715 [hci0] 32.735731
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #716 [hci0] 32.738194
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #717 [hci0] 32.738296
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #718 [hci0] 32.833236
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #719 [hci0] 32.835694
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #720 [hci0] 32.835795
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #721 [hci0] 32.930732
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #722 [hci0] 32.933194
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #723 [hci0] 32.933296
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #724 [hci0] 33.076983
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #725 [hci0] 33.079446
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #726 [hci0] 33.079548
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #727 [hci0] 33.125735
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #728 [hci0] 33.128195
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #729 [hci0] 33.128297
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #730 [hci0] 33.271987
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #731 [hci0] 33.274445
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #732 [hci0] 33.274547
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #733 [hci0] 33.418238
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #734 [hci0] 33.420700
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #735 [hci0] 33.420802
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #736 [hci0] 33.466991
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #737 [hci0] 33.469448
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #738 [hci0] 33.469550
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #739 [hci0] 33.564491
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #740 [hci0] 33.566950
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #741 [hci0] 33.567052
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #742 [hci0] 33.661991
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #743 [hci0] 33.664449
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #744 [hci0] 33.664551
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #745 [hci0] 33.759493
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #746 [hci0] 33.761953
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #747 [hci0] 33.762055
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #748 [hci0] 33.856995
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #749 [hci0] 33.859449
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #750 [hci0] 33.859551
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #751 [hci0] 33.954494
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #752 [hci0] 34.003243
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #753 [hci0] 34.003345
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #754 [hci0] 34.051996
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #755 [hci0] 34.054456
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #756 [hci0] 34.054558
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #757 [hci0] 34.149498
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #758 [hci0] 34.151953
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #759 [hci0] 34.152055
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #760 [hci0] 34.247000
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #761 [hci0] 34.249455
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #762 [hci0] 34.249557
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #763 [hci0] 34.344500
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #764 [hci0] 34.346959
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #765 [hci0] 34.347061
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #766 [hci0] 34.441997
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #767 [hci0] 34.444457
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #768 [hci0] 34.444559
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #769 [hci0] 34.588251
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #770 [hci0] 34.590710
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #771 [hci0] 34.590812
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #772 [hci0] 34.685751
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #773 [hci0] 34.688210
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #774 [hci0] 34.688312
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #775 [hci0] 34.783251
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #776 [hci0] 34.785712
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #777 [hci0] 34.785814
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #778 [hci0] 34.929497
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #779 [hci0] 34.932022
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #780 [hci0] 34.932124
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #781 [hci0] 34.978253
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #782 [hci0] 35.027006
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #783 [hci0] 35.027107
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #784 [hci0] 35.075756
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #785 [hci0] 35.078216
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #786 [hci0] 35.078318
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #787 [hci0] 35.173255
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #788 [hci0] 35.175717
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #789 [hci0] 35.175819
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #790 [hci0] 35.270921
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #791 [hci0] 35.273216
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #792 [hci0] 35.273318
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #793 [hci0] 35.465761
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #794 [hci0] 35.468220
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #795 [hci0] 35.468322
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #796 [hci0] 35.563260
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #797 [hci0] 35.565717
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #798 [hci0] 35.565819
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #799 [hci0] 35.660762
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #800 [hci0] 35.663222
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #801 [hci0] 35.663324
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #802 [hci0] 35.758262
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #803 [hci0] 35.760723
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #804 [hci0] 35.760825
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #805 [hci0] 35.855763
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #806 [hci0] 35.858223
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #807 [hci0] 35.858324
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #808 [hci0] 35.904514
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #809 [hci0] 35.907010
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #810 [hci0] 35.907112
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #811 [hci0] 36.002015
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #812 [hci0] 36.004476
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #813 [hci0] 36.004578
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #814 [hci0] 36.099518
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #815 [hci0] 36.101971
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #816 [hci0] 36.102073
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #817 [hci0] 36.197018
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #818 [hci0] 36.199475
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #819 [hci0] 36.199577
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #820 [hci0] 36.294519
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #821 [hci0] 36.296977
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #822 [hci0] 36.297079
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #823 [hci0] 36.392020
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #824 [hci0] 36.394476
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #825 [hci0] 36.394578
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #826 [hci0] 36.489520
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #827 [hci0] 36.491977
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #828 [hci0] 36.492079
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #829 [hci0] 36.587021
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #830 [hci0] 36.589481
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #831 [hci0] 36.589583
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #832 [hci0] 36.684942
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #833 [hci0] 36.687443
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #834 [hci0] 36.687546
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #835 [hci0] 36.782026
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #836 [hci0] 36.784483
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #837 [hci0] 36.784585
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #838 [hci0] 36.928272
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #839 [hci0] 36.930735
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #840 [hci0] 36.930837
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #841 [hci0] 36.977024
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #842 [hci0] 36.979485
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #843 [hci0] 36.979587
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #844 [hci0] 37.074526
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #845 [hci0] 37.076986
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #846 [hci0] 37.077088
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #847 [hci0] 37.220772
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #848 [hci0] 37.223238
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #849 [hci0] 37.223340
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #850 [hci0] 37.318280
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #851 [hci0] 37.320739
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #852 [hci0] 37.320840
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #853 [hci0] 37.415779
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #854 [hci0] 37.418252
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #855 [hci0] 37.418354
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #856 [hci0] 37.513277
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #857 [hci0] 37.515739
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #858 [hci0] 37.515841
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #859 [hci0] 37.610782
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #860 [hci0] 37.613242
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #861 [hci0] 37.613344
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #862 [hci0] 37.708283
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #863 [hci0] 37.710742
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #864 [hci0] 37.710844
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #865 [hci0] 37.805783
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #866 [hci0] 37.808241
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #867 [hci0] 37.808343
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #868 [hci0] 37.903283
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #869 [hci0] 37.905744
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #870 [hci0] 37.905845
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #871 [hci0] 38.000787
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #872 [hci0] 38.003247
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #873 [hci0] 38.003348
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #874 [hci0] 38.098289
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #875 [hci0] 38.100744
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #876 [hci0] 38.100846
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #877 [hci0] 38.195789
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #878 [hci0] 38.198248
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #879 [hci0] 38.198350
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
+> ACL Data RX: Handle 64 flags 0x02 dlen 251              #880 [hci0] 38.342038
+> ACL Data RX: Handle 64 flags 0x01 dlen 251              #881 [hci0] 38.344498
+> ACL Data RX: Handle 64 flags 0x01 dlen 19               #882 [hci0] 38.344600
+      ATT: Write Command (0x52) len 516
+        Handle: 0x001a
+          Data: 0505
