@@ -1,0 +1,27 @@
+Bluetooth monitor ver 5.72
+btmon[5259]: = Note: Linux version 6.6.51+rpt-rpi-2712 (aarch64)       0.042179
+btmon[5259]: = Note: Bluetooth subsystem version 2.22                  0.042182
+= New Index: 2C:CF:67:83:EA:E4 (Primary,UART,hci0)              [hci0] 0.042185
+= Open Index: 2C:CF:67:83:EA:E4                                 [hci0] 0.042185
+= Index Info: 2C:CF:67:83:EA:E4 (Cypress Semiconductor)         [hci0] 0.042186
+bluetoothd[707]: @ MGMT Open: bl.. (privileged) version 1.22  {0x0001} 0.042187
+> ACL Data RX: Handle 64 flags 0x02 dlen 12                  #1 [hci0] 9.292758
+      ATT: Write Command (0x52) len 7
+        Handle: 0x001a
+          Data: 0000000000
+> ACL Data RX: Handle 64 flags 0x02 dlen 12                 #2 [hci0] 14.167810
+      ATT: Write Command (0x52) len 7
+        Handle: 0x001a
+          Data: 0101010101
+> ACL Data RX: Handle 64 flags 0x02 dlen 12                 #3 [hci0] 19.140365
+      ATT: Write Command (0x52) len 7
+        Handle: 0x001a
+          Data: 0202020202
+> ACL Data RX: Handle 64 flags 0x02 dlen 12                 #4 [hci0] 24.161669
+      ATT: Write Command (0x52) len 7
+        Handle: 0x001a
+          Data: 0303030303
+> ACL Data RX: Handle 64 flags 0x02 dlen 12                 #5 [hci0] 29.134224
+      ATT: Write Command (0x52) len 7
+        Handle: 0x001a
+          Data: 0404040404
