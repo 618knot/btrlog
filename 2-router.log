@@ -1,0 +1,27 @@
+# Logfile created on 2025-01-23 14:03:31 +0900 by logger.rb/v1.6.0
+I, [2025-01-23T14:03:32.028898 #7264]  INFO -- : [34mRouter is running...[0m
+D, [2025-01-23T14:03:32.029748 #7264] DEBUG -- : 
+#<struct Struct::Device if_name="eth0", socket=#<Socket:fd 6>, hwaddr=[216, 58, 221, 246, 103, 41], addr=[192, 168, 11, 2], subnet=[192, 168, 11, 0], netmask=[255, 255, 255, 0]>
+#<struct Struct::Device if_name="wlan0", socket=#<Socket:fd 7>, hwaddr=[216, 58, 221, 246, 103, 42], addr=nil, subnet=nil, netmask=nil>
+W, [2025-01-23T14:03:32.030415 #7264]  WARN -- : [33mError reading socket: Network is down[0m
+D, [2025-01-23T14:03:32.030679 #7264] DEBUG -- : ["/root/.rbenv/versions/3.3.6/lib/ruby/3.3.0/socket.rb:457:in `__read_nonblock'", "/root/.rbenv/versions/3.3.6/lib/ruby/3.3.0/socket.rb:457:in `read_nonblock'", "/home/namekawa2/dev/Ruby-BLE-Router/lib/ruby-router/kit/router/router.rb:57:in `block in router'", "/home/namekawa2/dev/Ruby-BLE-Router/lib/ruby-router/kit/router/router.rb:55:in `each'", "/home/namekawa2/dev/Ruby-BLE-Router/lib/ruby-router/kit/router/router.rb:55:in `router'", "/home/namekawa2/dev/Ruby-BLE-Router/lib/ruby-router/kit/router/router.rb:36:in `run'", "router_example.rb:11:in `<main>'"]
+I, [2025-01-23T14:03:36.939837 #7264]  INFO -- : [34mBLE DATA: #<struct Protocol::BLE_DATA src_mac=[44, 207, 103, 129, 102, 227], dst_mac=[44, 207, 103, 131, 234, 228], length=[0, 19], data=[0, 0, 0, 0, 0]>[0m
+D, [2025-01-23T14:03:36.941197 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [0, 0, 0, 0, 0, 0] ng
+D, [2025-01-23T14:03:36.941934 #7264] DEBUG -- : eth0: Send Arp Request
+D, [2025-01-23T14:03:36.943833 #7264] DEBUG -- : Append Send Data: [192, 168, 11, 3]
+D, [2025-01-23T14:03:36.945064 #7264] DEBUG -- : eth0: Receive ARP REPLY
+D, [2025-01-23T14:03:36.945382 #7264] DEBUG -- : eth0: Append Send Req Data
+D, [2025-01-23T14:03:36.945533 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [216, 58, 221, 43, 70, 89] ok
+D, [2025-01-23T14:03:37.032934 #7264] DEBUG -- : Get Send Req Data
+D, [2025-01-23T14:03:37.036202 #7264] DEBUG -- : eth0: Buffer Send One
+D, [2025-01-23T14:03:37.036832 #7264] DEBUG -- : [216, 58, 221, 43, 70, 89, 216, 58, 221, 246, 103, 41, 8, 0, 69, 0, 0, 47, 0, 0, 0, 0, 63, 17, 228, 104, 192, 168, 11, 2, 192, 168, 11, 3, 16, 0, 16, 0, 0, 27, 0, 0, 44, 207, 103, 129, 102, 227, 44, 207, 103, 131, 234, 228, 0, 19, 0, 0, 0, 0, 0]
+I, [2025-01-23T14:03:41.961393 #7264]  INFO -- : [34mBLE DATA: #<struct Protocol::BLE_DATA src_mac=[44, 207, 103, 129, 102, 227], dst_mac=[44, 207, 103, 131, 234, 228], length=[0, 19], data=[1, 1, 1, 1, 1]>[0m
+D, [2025-01-23T14:03:41.962138 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [216, 58, 221, 43, 70, 89] ok
+D, [2025-01-23T14:03:42.095329 #7264] DEBUG -- : eth0: Receive ARP REQUEST
+D, [2025-01-23T14:03:42.095631 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [216, 58, 221, 43, 70, 89] ok
+I, [2025-01-23T14:03:46.935091 #7264]  INFO -- : [34mBLE DATA: #<struct Protocol::BLE_DATA src_mac=[44, 207, 103, 129, 102, 227], dst_mac=[44, 207, 103, 131, 234, 228], length=[0, 19], data=[2, 2, 2, 2, 2]>[0m
+D, [2025-01-23T14:03:46.935791 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [216, 58, 221, 43, 70, 89] ok
+I, [2025-01-23T14:03:51.951425 #7264]  INFO -- : [34mBLE DATA: #<struct Protocol::BLE_DATA src_mac=[44, 207, 103, 129, 102, 227], dst_mac=[44, 207, 103, 131, 234, 228], length=[0, 19], data=[3, 3, 3, 3, 3]>[0m
+D, [2025-01-23T14:03:51.952104 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [216, 58, 221, 43, 70, 89] ok
+I, [2025-01-23T14:03:56.925357 #7264]  INFO -- : [34mBLE DATA: #<struct Protocol::BLE_DATA src_mac=[44, 207, 103, 129, 102, 227], dst_mac=[44, 207, 103, 131, 234, 228], length=[0, 19], data=[4, 4, 4, 4, 4]>[0m
+D, [2025-01-23T14:03:56.926244 #7264] DEBUG -- : eth0 [192, 168, 11, 3] [216, 58, 221, 43, 70, 89] ok
